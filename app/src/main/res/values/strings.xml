@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Health Care </string>
+    <string name="app_version">Version 1.0</string>
+    <string name="action_settings">Settings</string>
+    <!-- Activities -->
+    <string name="title_activity_menu">당신의 건강을 책임집니다.</string>
+    <string name="title_activity_demo">Demo</string>
+    <string name="title_activity_text">Text</string>
+    <string name="title_activity_model">Model</string>
+    <!-- Demo menu -->
+    <string name="item">item</string>
+
+    <string-array name="menu_items">
+
+        <item>Exercise</item>
+        <item>Send_Motion</item>
+
+
+        <!-- <item>Settings</item> -->
+        <item>Help</item>
+        <item>About</item>
+        <item>Exit</item>
+
+    </string-array>
+
+    <string name="image">image</string>
+
+    <string name="help_text">
+        *메뉴\n-Exercise:트레이너가 제공하는 운동 자세를
+         3D로 보며 정확하게 따라하게 하기 위한 기능입니다.
+        \n-Send Motion:본인의 핸드폰 기기에 있는 오브젝트 파일을 트레이너에게 보내어
+                        본인의 동작이 정확한지 교정 받기 위한 기능입니다.
+        \n-Help:어플리케이션의 메뉴 기능에 대해 도움을 줍니다.
+        \n-About:개발자의 정보를 보여줍니다.
+        \n-Exit:어플리케이션을 종료합니다.  </string>
+
+
+    <string name="about_text">
+        *개발> 정보 : 오픈지엘 2.0을 통한 3d modeling 받아온 오브젝트에 대한 렌더링 및
+                       객체 출력을 통한 3자입장에서 본 360도 회전 관찰
+        \n*개발자 정보 : 종프8팀 \n(윤슬기, 강경문, 민수린, 윤현규, 류은혜)
+        \n 도움 : 백기열 조교 \n개발문의 gky3682@gmail.com
+        \n* Development information: 3D modeling with OpenGeel 2.0 360 degree rotation observation
+            froma 3-position view through rendering and object output of the object received
+        \n * Developer information: Yoon seul gi, Gang Gyeong Moon, Minsu Lin , Yoon Hyun-gyu, Ryu Eun-hye)
+        \n Help: Baek Gi-tae assistant
+        \ nDevelopment inquiry gky3682@gmail.com  </string>
+
+
+    <string name="model_name">Model name</string>
+    <string name="texture">Texture</string>
+    <string name="invert_texture_coordinates">Invert texture coordinates</string>
+    <string name="cancel">Cancel</string>
+    <string name="load">Load</string>
+    <string name="load_model">Load Model</string>
+
+    <!-- GL Settings -->
+    <string name="toggle_wireframe">Toggle wireframe</string>
+    <string name="toggle_textures">Toggle textures</string>
+    <string name="toggle_lights">Toggle lights</string>
+    <string name="toggle_boundingbox">Toggle bounding box</string>
+
+    <!-- To review -->
+    <string name="app_logo_desc">Teapot animated logo</string>
+
+</resources>

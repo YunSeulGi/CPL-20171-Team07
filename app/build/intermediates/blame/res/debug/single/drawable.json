@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\download\\androidstudio\\project\\OpenGL\\3D_project\\android-3D-model-viewer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.png",
+        "source": "E:\\download\\androidstudio\\project\\OpenGL\\3D_project\\android-3D-model-viewer-master\\app\\src\\main\\res\\drawable\\background.png"
+    },
+    {
+        "merged": "E:\\download\\androidstudio\\project\\OpenGL\\3D_project\\android-3D-model-viewer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher2.gif",
+        "source": "E:\\download\\androidstudio\\project\\OpenGL\\3D_project\\android-3D-model-viewer-master\\app\\src\\main\\res\\drawable\\ic_launcher2.gif"
+    },
+    {
+        "merged": "E:\\download\\androidstudio\\project\\OpenGL\\3D_project\\android-3D-model-viewer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "E:\\download\\androidstudio\\project\\OpenGL\\3D_project\\android-3D-model-viewer-master\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    }
+]

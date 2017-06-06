@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="E:\download\androidstudio\project\OpenGL\3D_project\android-3D-model-viewer-master\app\src\main\res"/><source path="E:\download\androidstudio\project\OpenGL\3D_project\android-3D-model-viewer-master\app\build\generated\res\rs\debug"/><source path="E:\download\androidstudio\project\OpenGL\3D_project\android-3D-model-viewer-master\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="E:\download\androidstudio\project\OpenGL\3D_project\android-3D-model-viewer-master\app\src\debug\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="E:\download\androidstudio\project\OpenGL\3D_project\android-3D-model-viewer-master\app\src\main\res"><file name="background" path="E:\download\androidstudio\project\OpenGL\3D_project\android-3D-model-viewer-master\app\src\main\res\drawable\background.png" qualifiers="" type="drawable"/><file name="ic_launcher" path="E:\download\androidstudio\project\OpenGL\3D_project\android-3D-model-viewer-master\app\src\main\res\drawable\ic_launcher.png" qualifiers="" type="drawable"/><file name="ic_launcher2" path="E:\download\androidstudio\project\OpenGL\3D_project\android-3D-model-viewer-master\app\src\main\res\drawable\ic_launcher2.gif" qualifiers="" type="drawable"/><file name="ic_launcher2" path="E:\download\androidstudio\project\OpenGL\3D_project\android-3D-model-viewer-master\app\src\main\res\drawable-hdpi\ic_launcher2.gif" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher2" path="E:\download\androidstudio\project\OpenGL\3D_project\android-3D-model-viewer-master\app\src\main\res\drawable-xhdpi\ic_launcher2.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher2" path="E:\download\androidstudio\project\OpenGL\3D_project\android-3D-model-viewer-master\app\src\main\res\drawable-xxhdpi\ic_launcher2.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_demo" path="E:\download\androidstudio\project\OpenGL\3D_project\android-3D-model-viewer-master\app\src\main\res\layout\activity_demo.xml" qualifiers="" type="layout"/><file name="activity_demo_item" path="E:\download\androidstudio\project\OpenGL\3D_project\android-3D-model-viewer-master\app\src\main\res\layout\activity_demo_item.xml" qualifiers="" type="layout"/><file name="activity_main" path="E:\download\androidstudio\project\OpenGL\3D_project\android-3D-model-viewer-master\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="activity_menu" path="E:\download\androidstudio\project\OpenGL\3D_project\android-3D-model-viewer-master\app\src\main\res\layout\activity_menu.xml" qualifiers="" type="layout"/><file name="activity_menu_item" path="E:\download\androidstudio\project\OpenGL\3D_project\android-3D-model-viewer-master\app\src\main\res\layout\activity_menu_item.xml" qualifiers="" type="layout"/><file name="activity_model" path="E:\download\androidstudio\project\OpenGL\3D_project\android-3D-model-viewer-master\app\src\main\res\layout\activity_model.xml" qualifiers="" type="layout"/><file name="activity_text" path="E:\download\androidstudio\project\OpenGL\3D_project\android-3D-model-viewer-master\app\src\main\res\layout\activity_text.xml" qualifiers="" type="layout"/><file name="dialog_load_model" path="E:\download\androidstudio\project\OpenGL\3D_project\android-3D-model-viewer-master\app\src\main\res\layout\dialog_load_model.xml" qualifiers="" type="layout"/><file name="main" path="E:\download\androidstudio\project\OpenGL\3D_project\android-3D-model-viewer-master\app\src\main\res\menu\main.xml" qualifiers="" type="menu"/><file name="menu" path="E:\download\androidstudio\project\OpenGL\3D_project\android-3D-model-viewer-master\app\src\main\res\menu\menu.xml" qualifiers="" type="menu"/><file name="model" path="E:\download\androidstudio\project\OpenGL\3D_project\android-3D-model-viewer-master\app\src\main\res\menu\model.xml" qualifiers="" type="menu"/><file name="ic_launcher" path="E:\download\androidstudio\project\OpenGL\3D_project\android-3D-model-viewer-master\app\src\main\res\raw\ic_launcher.gif" qualifiers="" type="raw"/><file path="E:\download\androidstudio\project\OpenGL\3D_project\android-3D-model-viewer-master\app\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="ButtonBarContainerTheme">
+        <attr format="reference" name="buttonBarStyle"/>
+        <attr format="reference" name="buttonBarButtonStyle"/>
+    </declare-styleable></file><file path="E:\download\androidstudio\project\OpenGL\3D_project\android-3D-model-viewer-master\app\src\main\res\values\colors.xml" qualifiers=""><color name="black_overlay">#66000000</color></file><file path="E:\download\androidstudio\project\OpenGL\3D_project\android-3D-model-viewer-master\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="activity_vertical_margin">16dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen></file><file path="E:\download\androidstudio\project\OpenGL\3D_project\android-3D-model-viewer-master\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="AppBaseTheme">
+        
+    </style><style name="ButtonBarButton"/><style name="ButtonBar">
+        <item name="android:paddingLeft">2dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingRight">2dp</item>
+        <item name="android:paddingBottom">0dp</item>
+        <item name="android:background">@android:drawable/bottom_bar</item>
+    </style><style name="FullscreenTheme" parent="android:Theme.NoTitleBar">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowBackground">@null</item>
+        <item name="buttonBarStyle">@style/ButtonBar</item>
+        <item name="buttonBarButtonStyle">@style/ButtonBarButton</item>
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style></file><file path="E:\download\androidstudio\project\OpenGL\3D_project\android-3D-model-viewer-master\app\src\main\res\values\strings.xml" qualifiers=""><string name="item">item</string><string name="about_text">
+        *개발> 정보 : 오픈지엘 2.0을 통한 3d modeling 받아온 오브젝트에 대한 렌더링 및
+                       객체 출력을 통한 3자입장에서 본 360도 회전 관찰
+        \n*개발자 정보 : 종프8팀 \n(윤슬기, 강경문, 민수린, 윤현규, 류은혜)
+        \n 도움 : 백기열 조교 \n개발문의 gky3682@gmail.com
+        \n* Development information: 3D modeling with OpenGeel 2.0 360 degree rotation observation
+            froma 3-position view through rendering and object output of the object received
+        \n * Developer information: Yoon seul gi, Gang Gyeong Moon, Minsu Lin , Yoon Hyun-gyu, Ryu Eun-hye)
+        \n Help: Baek Gi-tae assistant
+        \ nDevelopment inquiry gky3682@gmail.com  </string><string name="title_activity_menu">당신의 건강을 책임집니다.</string><string name="action_settings">Settings</string><string name="toggle_textures">Toggle textures</string><string name="app_name">Health Care </string><string-array name="menu_items">
+
+        <item>Exercise</item>
+        <item>Send_Motion</item>
+
+
+        
+        <item>Help</item>
+        <item>About</item>
+        <item>Exit</item>
+
+    </string-array><string name="app_version">Version 1.0</string><string name="texture">Texture</string><string name="cancel">Cancel</string><string name="title_activity_demo">Demo</string><string name="toggle_wireframe">Toggle wireframe</string><string name="invert_texture_coordinates">Invert texture coordinates</string><string name="help_text">
+        *메뉴\n-Exercise:트레이너가 제공하는 운동 자세를
+                         3D로 보며 정확하게 따라하기 위한 기능입니다.
+        \n-Send Motion:본인의 핸드폰 기기에 있는 오브젝트 파일을 트레이너에게 보내어
+                        본인의 동작이 정확한지 교정 받기 위한 기능입니다.
+        \n-Help:어플리케이션의 메뉴 기능에 대해 도움을 줍니다.
+        \n-About:개발자의 정보를 보여줍니다.
+        \n-Exit:어플리케이션을 종료합니다.  </string><string name="model_name">Model name</string><string name="app_logo_desc">Teapot animated logo</string><string name="title_activity_text">Text</string><string name="title_activity_model">Model</string><string name="load">Load</string><string name="image">image</string><string name="toggle_lights">Toggle lights</string><string name="load_model">Load Model</string><string name="toggle_boundingbox">Toggle bounding box</string></file><file path="E:\download\androidstudio\project\OpenGL\3D_project\android-3D-model-viewer-master\app\src\main\res\values-sw720dp-land\dimens.xml" qualifiers="sw720dp-land-v13"><dimen name="activity_horizontal_margin">128dp</dimen></file><file path="E:\download\androidstudio\project\OpenGL\3D_project\android-3D-model-viewer-master\app\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="FullscreenTheme" parent="android:Theme.Holo">
+        <item name="android:actionBarStyle">@style/FullscreenActionBarStyle</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowBackground">@null</item>
+        <item name="buttonBarStyle">?android:attr/buttonBarStyle</item>
+        <item name="buttonBarButtonStyle">?android:attr/buttonBarButtonStyle</item>
+    </style><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        
+    </style><style name="FullscreenActionBarStyle" parent="android:Widget.Holo.ActionBar">
+        <item name="android:background">@color/black_overlay</item>
+    </style></file><file path="E:\download\androidstudio\project\OpenGL\3D_project\android-3D-model-viewer-master\app\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        
+    </style></file></source><source path="E:\download\androidstudio\project\OpenGL\3D_project\android-3D-model-viewer-master\app\build\generated\res\rs\debug"/><source path="E:\download\androidstudio\project\OpenGL\3D_project\android-3D-model-viewer-master\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="E:\download\androidstudio\project\OpenGL\3D_project\android-3D-model-viewer-master\app\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="ButtonBarContainerTheme"><attr format="reference" name="buttonBarStyle"/><attr format="reference" name="buttonBarButtonStyle"/></declare-styleable></configuration></mergedItems></merger>
